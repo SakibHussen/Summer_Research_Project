@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Narock"
+  given-names: "Tom"
+  orcid: "https://orcid.org/0000-0002-9785-4496"
+- family-names: "Kulikova"
+  given-names: "Anna"
+- family-names: "Hussein"
+  given-names: "Sakib"
+- family-names: "Mwangi"
+  given-names: "Marcellus"
+- family-names: "Siam"
+  given-names: "Abdul"
+title: "Land Surface Temperature Bayesian Neural Network"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2025-01-31
+url: "https://github.com/narock/lst_bnn"
